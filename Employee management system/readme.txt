@@ -7,8 +7,10 @@ This project uses concepts of
 
 Database use - MySQL
 Steps for testing. 
-Step 1.) Download and install MySql database.
+Step 1.) Download and install MySql database. 
+
 Step 2.) Create a database with the name employeemanagementproject.
+
 Step 3.)Login details used
          host name  - localhost
          User       - root
@@ -31,4 +33,17 @@ mysql> desc employeedata;
 | salary     | int          | YES  |     | NULL    |       |
 +------------+--------------+------+-----+---------+-------+
 5 rows in set (0.26 sec)
-Step 4.) Run .exe or .Jar file for testing. 
+
+Step 5.) Run .exe or .Jar file for testing. 
+
+
+
+
+
+
+
+
+
+
+
+
