@@ -3,7 +3,7 @@ This project uses concepts of
                            -> Java
                            -> Swing designer
                            -> Database management system
-                           -> Basic bank process etc.
+                           -> Knowledge of basic processes etc.
 
 Database use - MySQL
 Steps for testing. 
