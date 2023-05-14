@@ -36,6 +36,10 @@ mysql> desc employeedata;
 
 Step 5.) Run .exe or .Jar file for testing. 
 
+Step 6.) Desktop application login details
+             username - admin
+             password - 123
+
 
 
 
