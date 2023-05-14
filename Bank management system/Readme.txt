@@ -35,4 +35,8 @@ Database changed
 | account_type    | varchar(20)  | YES  |     | NULL    |       |
 | account_balance | int          | YES  |     | NULL    |       |
 +-----------------+--------------+------+-----+---------+-------+ 
-Step 4.) Run .exe or .jar file of the project.
+Step 5.) Run .exe or .jar file of the project.
+
+Step 6.) Desktop application login details
+             username - admin
+             password - 123
