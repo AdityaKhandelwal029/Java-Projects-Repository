@@ -1,6 +1,6 @@
 # Java-Projects-Repository
 
-This Java Projects Repository contains 7 project made in java with eclipse IDE.
+This Java Projects Repository contains 7 projects made in java with eclipse IDE.
 
 Project 1 - Login Project                                           -Using Swing designer
 Project 2 - Calculator Project                                      -Using Swing designer
