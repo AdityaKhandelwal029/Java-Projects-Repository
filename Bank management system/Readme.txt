@@ -3,7 +3,7 @@ This project uses concepts of
                            -> Java
                            -> Swing designer
                            -> Database management system
-                           -> Basic bank process etc.
+                           -> Basic banking process etc.
 
 Database use - MySQL
 
