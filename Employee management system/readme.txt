@@ -1,4 +1,4 @@
-This folder contains Employee management system desktop project made in java with eclipse Ide.
+This folder contains Employee management system desktop application project made in java with eclipse Ide.
 This project uses concepts of 
                            -> Java
                            -> Swing designer
